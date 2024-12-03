@@ -44,12 +44,15 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaaalmidani&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaaalmidani&layout=compact&theme=radical)  
 
+### 🌟 Visitor Count  
+![Visitor Count](https://komarev.com/ghpvc/?username=alaaalmidani&color=blue&style=flat-square)  
+
 ---
 
 ## 💬 Let's Connect!  
 - 📧 Email: [alaaalmedane@gmail.com]  
 - 💼 LinkedIn: [https://www.linkedin.com/in/alaa-al-midani-335732221/]  
-- 🌐 Portfolio:
+- 🌐 Portfolio:  
 
 ---
 
