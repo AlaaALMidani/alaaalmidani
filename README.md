@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Alaa Al-Midani!  
 
-**💻 AI Engineering Student** | **🌐 MERN Stack Developer** | **📱 Flutter Developer** | **🏆 Competitive Programming Contestant**  
+**💻 AI Engineer** | **🌐 MERN Stack Developer** | **📱 Flutter Developer** | **🏆 Competitive Programming Contestant**  
 
 ---
 
