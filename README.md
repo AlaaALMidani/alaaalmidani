@@ -17,6 +17,7 @@
 ## 🔧 Technologies & Tools  
 ### Languages  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
@@ -31,6 +32,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)  
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=flat)  
 
 ### Tools  
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)  
